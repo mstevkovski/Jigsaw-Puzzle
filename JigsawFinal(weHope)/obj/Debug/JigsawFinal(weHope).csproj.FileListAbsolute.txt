@@ -1,0 +1,51 @@
+c:\users\vladimir\documents\visual studio 2013\Projects\JigsawFinal(weHope)\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).exe
+c:\users\vladimir\documents\visual studio 2013\Projects\JigsawFinal(weHope)\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).pdb
+c:\users\vladimir\documents\visual studio 2013\Projects\JigsawFinal(weHope)\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2013\Projects\JigsawFinal(weHope)\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Form1.resources
+c:\users\vladimir\documents\visual studio 2013\Projects\JigsawFinal(weHope)\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Properties.Resources.resources
+c:\users\vladimir\documents\visual studio 2013\Projects\JigsawFinal(weHope)\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csproj.GenerateResource.Cache
+c:\users\vladimir\documents\visual studio 2013\Projects\JigsawFinal(weHope)\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).exe
+c:\users\vladimir\documents\visual studio 2013\Projects\JigsawFinal(weHope)\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\BACKUP\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\BACKUP\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\BACKUP\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\BACKUP\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Form1.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\BACKUP\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Properties.Resources.resources
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\BACKUP\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csproj.GenerateResource.Cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\BACKUP\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\BACKUP\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).pdb
+C:\Users\Deni\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).exe
+C:\Users\Deni\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).pdb
+C:\Users\Deni\Desktop\Nova verzija\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).exe
+C:\Users\Deni\Desktop\Nova verzija\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).pdb
+C:\Users\Deni\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csprojResolveAssemblyReference.cache
+C:\Users\Deni\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Form1.resources
+C:\Users\Deni\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Properties.Resources.resources
+C:\Users\Deni\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).exe
+C:\Users\Vladimir\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).pdb
+C:\Users\Vladimir\Desktop\Nova verzija\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).exe
+C:\Users\Vladimir\Desktop\Nova verzija\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).pdb
+C:\Users\Vladimir\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Form1.resources
+C:\Users\Vladimir\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\Nova verzija\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Images.resources
+C:\Users\Deni\Desktop\n\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).exe
+C:\Users\Deni\Desktop\n\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).pdb
+C:\Users\Deni\Desktop\n\New Folder\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).exe
+C:\Users\Deni\Desktop\n\New Folder\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).pdb
+C:\Users\Deni\Desktop\n\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csprojResolveAssemblyReference.cache
+C:\Users\Deni\Desktop\n\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Form1.resources
+C:\Users\Deni\Desktop\n\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Images.resources
+C:\Users\Deni\Desktop\n\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Properties.Resources.resources
+C:\Users\Deni\Desktop\n\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).exe
+C:\Users\Vladimir\Desktop\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).pdb
+C:\Users\Vladimir\Desktop\New Folder\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).exe
+C:\Users\Vladimir\Desktop\New Folder\JigsawFinal(weHope)\bin\Debug\JigsawFinal(weHope).pdb
+C:\Users\Vladimir\Desktop\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Form1.resources
+C:\Users\Vladimir\Desktop\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Images.resources
+C:\Users\Vladimir\Desktop\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal_weHope_.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\New Folder\JigsawFinal(weHope)\obj\Debug\JigsawFinal(weHope).csproj.GenerateResource.Cache
